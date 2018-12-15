@@ -1,0 +1,7 @@
+C:\Users\anton\source\repos\OOP\OOP1\obj\Debug\OOP1.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\OOP\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\OOP\OOP1\bin\Debug\OOP1.pdb
+C:\Users\anton\source\repos\OOP\OOP1\obj\Debug\OOP1.pdb
+C:\Users\anton\source\repos\OOP\OOP1\bin\Debug\OOP1.dll.config
+C:\Users\anton\source\repos\OOP\OOP1\bin\Debug\OOP1.dll
+C:\Users\anton\source\repos\OOP\OOP1\obj\Debug\OOP1.dll

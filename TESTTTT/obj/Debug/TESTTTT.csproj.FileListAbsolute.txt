@@ -1,0 +1,11 @@
+C:\Users\anton\source\repos\OOP\TESTTTT\obj\Debug\TESTTTT.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\OOP\TESTTTT\bin\Debug\TESTTTT.exe.config
+C:\Users\anton\source\repos\OOP\TESTTTT\bin\Debug\TESTTTT.exe
+C:\Users\anton\source\repos\OOP\TESTTTT\bin\Debug\TESTTTT.pdb
+C:\Users\anton\source\repos\OOP\TESTTTT\obj\Debug\TESTTTT.exe
+C:\Users\anton\source\repos\OOP\TESTTTT\obj\Debug\TESTTTT.pdb
+C:\Users\anton\source\repos\OOP\TESTTTT\bin\Debug\OOP1.dll
+C:\Users\anton\source\repos\OOP\TESTTTT\bin\Debug\OOP1.pdb
+C:\Users\anton\source\repos\OOP\TESTTTT\bin\Debug\OOP1.dll.config
+C:\Users\anton\source\repos\OOP\TESTTTT\obj\Debug\TESTTTT.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\OOP\TESTTTT\obj\Debug\TESTTTT.csproj.CopyComplete
